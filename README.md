@@ -18,7 +18,7 @@ standards:
 To integrate the script (less than 1kb) within your HTML page, copy the following code:
 
 ```html
-<script type="application/javascript" src="https://raw.githubusercontent.com/link-society/micro-web-component/main/index.js"></script>
+<script type="application/javascript" crossorigin="anonymous" src="https://link-society.github.io/micro-web-component/index.js"></script>
 ```
 
 ### Basic Web Component
